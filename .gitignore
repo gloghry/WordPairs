@@ -1,0 +1,13 @@
+# ignore everything
+/*
+
+# Don't ignore these files
+!.gitignore
+!.gitattributes
+!README.md
+!makefile
+
+# Don't ignore these directories or subdirectories
+!src/
+!test/
+!data/
